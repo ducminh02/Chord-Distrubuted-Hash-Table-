@@ -1,0 +1,6 @@
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/package_source.dir
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/package.dir
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/peer.dir
+/mnt/c/Users/MSI/Documents/TU/Semester 3/Rechnernetze und Verteilte Systeme/finalPraxis2/praxis2/build/CMakeFiles/client.dir
